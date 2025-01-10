@@ -1,3 +1,2 @@
-# Meta-Adapter
-## the code of Exploring the Internal Structure of Adapter for Parameter-Efficient Tuning
-Our code is being uploaded gradually.
+## Exploring the Internal Structure of Adapter for Parameter-Efficient Tuning
+Kaiwen Li, Xing Wei, Dahu Shi, Jingang Shi by School of software engineering, Xi'an Jiaotong University and Hikvision Research Institute
