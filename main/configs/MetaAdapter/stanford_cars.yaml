@@ -1,0 +1,4 @@
+name: stanford_cars
+class_num: 196
+scale: 1
+xavier_init: True

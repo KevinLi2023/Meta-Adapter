@@ -1,0 +1,4 @@
+name: fgvc_flowers
+class_num: 102
+scale: 1
+xavier_init: True

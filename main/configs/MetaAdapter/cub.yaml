@@ -1,0 +1,4 @@
+name: cub
+class_num: 200
+scale: 1
+xavier_init: True

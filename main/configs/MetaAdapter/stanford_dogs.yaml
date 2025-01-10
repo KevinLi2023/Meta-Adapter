@@ -1,0 +1,4 @@
+name: stanford_dogs
+class_num: 120
+scale: 1
+xavier_init: True

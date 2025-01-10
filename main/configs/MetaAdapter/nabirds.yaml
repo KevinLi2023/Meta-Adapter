@@ -1,0 +1,4 @@
+name: nabirds
+class_num: 555
+scale: 1
+xavier_init: True
