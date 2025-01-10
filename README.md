@@ -17,4 +17,4 @@ Kaiwen Li, Xing Wei, Dahu Shi, Jingang Shi by School of software engineering, Xi
 
   - [Stanford Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
-- [Visual Task Adaptation Benchmark](https://google-research.github.io/task_adaptation/) (VTAB): see [`VTAB_SETUP.md`](https://github.com/KMnP/vpt/blob/main/VTAB_SETUP.md) for detailed instructions and tips.
+- [Visual Task Adaptation Benchmark](https://google-research.github.io/task_adaptation/) (VTAB)
